@@ -1,9 +1,8 @@
 # Group Repository for the Data Science Mini-Project (EMATM0050)
 
 ## Please edit the fields below with your information
-Group Number: 
+Group Number: 27
 
-Problem Assigned: 
+Problem Assigned: 3
 
-Group Members:
-
+Group Members: Diya Mary Dominic, Jessie Bloom, Jack Sanderson, Amaan Qureshi
