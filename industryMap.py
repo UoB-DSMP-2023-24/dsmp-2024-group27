@@ -73,6 +73,7 @@ industry_categories = {
     "CAFE": "Lunch / Light Meal",
     "A_CAFE": "Cafes",
     "A_LOCAL_COFFEE_SHOP": "Cafes",
+    "CAFE": "Cafes",
     "CAFÉ": "Cafes",
     "COFFEE_SHOP": "Cafes",
     "GOURMET_COFFEE_SHOP": "Cafes",
