@@ -83,6 +83,7 @@ https://www.lloydsbank.com/savings.html
 - Cinema goer (Club lloyds)
 - coffee drinker (Club lloyds)
 - dining out eater (Club lloyds)
+- Future ideas: AA Breakdown is included with Silver- target customers who drive (petrol, car repairs etc)
 ##### Savings Accounts
 - Inactive user index, those with minimal tx's (Club Lloyds Advantage Saver or ISA Saver)
 - Frugal spender user index, those with minimal spending (Clubs Lloyds Monthly Saver or Monthly Saver)
