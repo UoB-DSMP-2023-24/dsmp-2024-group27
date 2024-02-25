@@ -47,7 +47,7 @@ industry_categories = {
     "JEWLLERY_SHOP": "Accessories",
     "ACCESSORY_SHOP": "Accessories",
     "GYM": "Health and fitness",
-    "LIQUORE_STORE": "Alcohol",
+    "LIQUOR_STORE": "Alcohol",
     "WHISKEY_SHOP": "Alcohol",
     "WINE_CELLAR": "Alcohol",
     "LOCAL_BOOKSHOP": "Books",
